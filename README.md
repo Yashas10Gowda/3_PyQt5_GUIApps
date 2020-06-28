@@ -31,3 +31,4 @@ python logger.py
 
 Double click on .exe files ;) but there is catch, these files are only tested in Win 8.1 Pro and it does not run on Mac or Linux.
 But you can always try running in development mode since it just needs a python interpretor with pip.
+Either clone this repo or just download the .exe files to test it out.
